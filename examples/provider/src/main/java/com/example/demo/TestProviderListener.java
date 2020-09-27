@@ -13,7 +13,7 @@ public class TestProviderListener extends AbstractProviderListener<TestServiceRe
     public ProviderListenerOptions getOptions() {
         ProviderListenerOptions options = new ProviderListenerOptions();
         options.setServiceName("test");
-        options.setAddress("iaa1ewed0ds2syhv4qn6fjhx2avma0j2sp6d594tht");
+        options.setAddress("iaa1dwlfeqh5x4982fxmdy0wzsparle7lahljm6cf7");
         return options;
     }
 

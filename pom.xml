@@ -73,12 +73,12 @@
         <repository>
             <id>maven-releases</id>
             <name>Nexus Release Repository</name>
-            <url>http://nexus.bianjie.ai/repository/maven-releases/</url>
+            <url>http://58.33.6.114:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
             <name>Nexus Snapshot Repository</name>
-            <url>http://nexus.bianjie.ai/repository/maven-snapshots/</url>
+            <url>http://58.33.6.114:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>

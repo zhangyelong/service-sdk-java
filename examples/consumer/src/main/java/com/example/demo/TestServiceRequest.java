@@ -33,7 +33,7 @@ public class TestServiceRequest extends BaseServiceRequest<TestServiceRequest.Te
     @Override
     public List<String> getProviders() {
 
-        return Lists.newArrayList("iaa1ewed0ds2syhv4qn6fjhx2avma0j2sp6d594tht");
+        return Lists.newArrayList("iaa1dwlfeqh5x4982fxmdy0wzsparle7lahljm6cf7");
     }
 
     @Override
